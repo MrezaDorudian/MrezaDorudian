@@ -6,5 +6,3 @@
 -  I’m currently learning Machine Learning & Deep Learning
 -  I’m also interested in game development
 -  Please contact me with my Email
-
----
