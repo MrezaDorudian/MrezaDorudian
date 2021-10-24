@@ -1,4 +1,5 @@
-## Hi there i'm Mohammad Reza 🙌
+
+## Hi there i'm Mohammad Reza! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
 ### About me
 
@@ -9,6 +10,8 @@ Also working at [Roshan-AI](roshan.ai.ir).
 -  I’m also interested in Game Development
 
 
+
 ### Contact
-[![Linkedin Badge](https://img.shields.io/badge/-MReza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)](https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)  
-mr.dorudian@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)](https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)  
+Email: mr.dorudian@gmail.com
+
