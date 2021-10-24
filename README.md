@@ -4,7 +4,6 @@
 ### About me
 
 I'm currently a computer engineering student at [Amirkabir University of Technology](aut.ac.ir).  
-Also working at [Roshan-AI](roshan.ai.ir).
 
 -  I’m learning Machine Learning & Deep Learning
 -  I’m also interested in Game Development
