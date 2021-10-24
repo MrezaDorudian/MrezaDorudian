@@ -2,8 +2,13 @@
 
 ### About me
 
--  I'm currently a computer engineering student at [Amirkabir University](aut.ac.ir)
--  I’m currently working at [Roshan-AI](roshan.ai.ir)
--  I’m currently learning Machine Learning & Deep Learning
--  I’m also interested in game development
--  Please contact me with my Email [mr.dorudian@gmail.com]
+I'm currently a computer engineering student at [Amirkabir University of Technology](aut.ac.ir)  
+Also working at [Roshan-AI](roshan.ai.ir)
+
+-  I’m learning Machine Learning & Deep Learning
+-  I’m also interested in Game Development
+
+
+### Contact
+[![Linkedin Badge](https://img.shields.io/badge/-MReza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)](https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)  
+mr.dorudian@gmail.com
