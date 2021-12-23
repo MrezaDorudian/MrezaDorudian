@@ -11,6 +11,6 @@ I'm currently a computer engineering student at [Amirkabir University of Technol
 
 
 ### Contact
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammadreza-doroodian-63a715212/)](https://www.linkedin.com/in/mohammadreza-dorudian-63a715212/)  
-Email: mr.dorudian@gmail.com
 
+<a href="mailto:mr.dorudian@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohammadreza-doroodian-63a715212"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
