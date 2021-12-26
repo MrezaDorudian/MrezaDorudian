@@ -3,7 +3,7 @@
 
 ### About me
 
-I'm currently a computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir).  
+I'm currently a computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/en).  
 
 -  I’m learning Machine Learning & Deep Learning
 -  I’m also interested in Game Development
