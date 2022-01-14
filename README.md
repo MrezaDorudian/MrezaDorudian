@@ -7,10 +7,10 @@ I'm currently a computer engineering student at [Amirkabir University of Technol
 
 -  I’m learning Machine Learning & Deep Learning
 -  I’m also interested in Game Development
-<div>
+<!-- <div>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrezaDorudian&show_icons=true&theme=dark" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrezaDorudian&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
 
 
 
