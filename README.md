@@ -1,12 +1,12 @@
 
-## Hi there i'm Mohammad Reza! 🙌   
+## Hi there i'm Mohammadreza! 🙌   
 
 
 ### I'm currently a computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/en).  
 ---
 
 -  I’m interested in Machine Learning & Deep Learning
--  I’m working on my B.Sc. project on the field of security and threat-hunting
+-  I’m working on my B.Sc. project on the field of Machine Learning and Threat-Hunting
 -  I’m also interested in Game Development
 <!-- <div>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrezaDorudian&show_icons=true&theme=dark" />
