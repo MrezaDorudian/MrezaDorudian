@@ -2,7 +2,6 @@
 ## Hi there i'm Mohammadreza! 🙌   
 
 
----
 ### About me
 Hi there! I'm a computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/en), where I am focusing on machine learning and deep learning. I am always trying to keep myself up to date and learn more about these fields.
 
