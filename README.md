@@ -2,12 +2,15 @@
 ## Hi there i'm Mohammadreza! 🙌   
 
 
-### I'm currently a computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/en).  
+### I'm currently a computer engineering student at .  
 ---
+### About me
+Hi there! I'm a computer engineering student at [Amirkabir University of Technology](https://aut.ac.ir/en), where I am focusing on machine learning and deep learning. I am always trying to keep myself up to date and learn more about these fields.
 
--  I’m interested in Machine Learning & Deep Learning
--  I’m working on my B.Sc. project on the field of Machine Learning and Threat-Hunting
--  I’m also interested in Game Development
+Recently, I completed my B.Sc. project on the field of machine learning and threat hunting. My project is available for review [here](https://github.com/MrezaDorudian/HunterBee).
+
+In addition to my interests in machine learning, I am also passionate about game development. I have created a remaster of the classic game Mortal Kombat 1, which can be found [here](https://github.com/MrezaDorudian/Mortal-Kombat).
+
 <!-- <div>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrezaDorudian&show_icons=true&theme=dark" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrezaDorudian&layout=compact&langs_count=7&theme=dark"/>
