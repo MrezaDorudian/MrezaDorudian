@@ -3,9 +3,9 @@
 
 
 ### About me
-👀 I'm a Master's student at [Simon Fraser University](https://www.sfu.ca/) at [School of Interactive Art & Technology](http://www.sfu.ca/siat.html).
+👀 I'm a Master's student at [Simon Fraser University](https://www.sfu.ca/) at [School of Interactive Technology](http://www.sfu.ca/siat.html).
 
-🎈 I am passionate about game development. I have created a very basic remaster of the classic game Mortal Kombat 1, which can be found [here](https://github.com/MrezaDorudian/Mortal-Kombat).
+🎈 I am passionate about software engineering and data science. I have created a several related projects that could be found in my github. Please feel free to browse and contact me 😀.
 
 
 <!-- <div>
