@@ -6,12 +6,6 @@ Right now, I am building software systems for architects and designers in the fi
 
 I also enjoy working on game design and development 🎮.
 
-### Selected Work
-
-- **[learning-emotion-modeling](https://github.com/MrezaDorudian/learning-emotion-modeling)**: My M.Sc. thesis pipeline for multimodal emotion modeling using eye-tracking and facial-expression signals.
-- **[HunterBee](https://github.com/MrezaDorudian/HunterBee)**: A log-based threat detection system using machine learning and dimensionality reduction for high-volume security data.
-- **[career-ops](https://github.com/MrezaDorudian/career-ops)**: A workflow automation system for job tracking, extraction, and alerts using LLM agents and GitHub Actions.
-
 ### 💼 Experience
 
 - Software Developer collaborating with [**Perkins&Will**](https://perkinswill.com/) and [**Simon Fraser University**](https://www.sfu.ca/)
