@@ -2,7 +2,7 @@
 
 I build software that sits at the intersection of engineering, research, and design.
 
-Right now, I am building software systems for architects and designers in the field of Building Integrated Agriculture in collaboration with Perkins&Will and Simon Fraser University. Related paper: [Building Integrated Agriculture](https://papers.cumincad.org/data/works/att/caadria2026_399.pdf).
+Right now, I am building software systems for architects and designers in the field of Building Integrated Agriculture in collaboration with Perkins&Will and Simon Fraser University.
 
 I also enjoy working on game design and development.
 
