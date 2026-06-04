@@ -1,4 +1,4 @@
-## Hi there, I'm Mohammadreza (Reza) Doroodian! 🙌
+## Hi there, I'm Reza Doroodian! 🙌
 
 I build software at the intersection of engineering, research, and design.
 
